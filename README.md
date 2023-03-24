@@ -1,19 +1,22 @@
-# Device configuration for Motorola Edge S / Moto G100
+# Device configuration for Motorola Moto G30
 
-## Device specifications
+## Device specification
 
 Basic   | Spec Sheet
--------:|:-------------------------
-CPU     | Octa-core (1x3.2 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)
-CHIPSET | Qualcomm SM8250 Snapdragon 870
-GPU     | Adreno 650
-Memory  | 6 / 8 / 12GB
-Shipped Android Version | 11
-Storage | 128 / 256GB
+-------:|:------------------------
+CPU     | Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver)
+CHIPSET | Qualcomm SDM662 (SM6115 "Bengal") Snapdragon 662
+GPU     | Adreno 610
+Memory  | 4GB, 6GB
+Shipped Android Version | 11.0
+Storage | 64GB, 128GB
 Battery | 5000 mAh
-Dimensions | 168.4 x 74 x 9.7 mm
-Display | 1080 x 2520 pixels, 6.7" IPS, 90Hz, HDR10
-Rear Camera  | 64 MP (f/1.7) + 16 MP (f/2.2) + 2 MP (f/2.4) + TOF 3D
-Front Camera | 16 MP (f/2.2) + 8 MP (f/2.4)
+Dimensions | 165.2 x 75.7 x 9.1 mm (6.50 x 2.98 x 0.36 in)
+Display | IPS LCD, 90Hz, 720 x 1600 pixels, 20:9 ratio (~269 ppi density)
+Rear Camera 1 | 64 MP, f/1.7, 26mm (wide), 1/1.97", 0.7µm, PDAF
+Rear Camera 2 | 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0", 1.12µm
+Rear Camera 3 | 2 MP, f/2.4, (macro)
+Rear Camera 4 | 2 MP, f/2.4, (depth)
+Front Camera | 13 MP, f/2.2, (wide), 1/3.1", 1.12µm
 
-![Device Picture](https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g100-ofic-01.jpg)
+![Device Picture](https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g30.jpg)

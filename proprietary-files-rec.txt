@@ -1,5 +1,9 @@
-# All unpinned blobs below are extracted from nio_retcn S1RN32.55-16-2
+# All unpinned blobs below are extracted from caprip_retail S0RCS32.41-10-19-12
 
 # Touchscreen firmware
-vendor/firmware/novatek_ts_fw.bin:recovery/root/vendor/firmware/novatek_ts_fw.bin
-vendor/firmware/novatek_ts_mp.bin:recovery/root/vendor/firmware/novatek_ts_mp.bin
+vendor/firmware/djn1_nt36525c_novatek_ts_fw.bin:recovery/root/vendor/firmware/djn1_nt36525c_novatek_ts_fw.bin
+vendor/firmware/djn1_nt36525c_novatek_ts_mp.bin:recovery/root/vendor/firmware/djn1_nt36525c_novatek_ts_mp.bin
+vendor/firmware/ILITEK_FW_TIANMA_9882N:recovery/root/vendor/firmware/ILITEK_FW_TIANMA_9882N
+vendor/firmware/ILITEK_FW_TXD_9882N:recovery/root/vendor/firmware/ILITEK_FW_TXD_9882N
+vendor/firmware/NT36xxx_MP_Setting_Criteria_601D.csv:recovery/root/vendor/firmware/NT36xxx_MP_Setting_Criteria_601D.csv
+vendor/firmware/NT36xxx_MP_Setting_Criteria_602A.csv:recovery/root/vendor/firmware/NT36xxx_MP_Setting_Criteria_602A.csv
